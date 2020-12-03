@@ -19,6 +19,11 @@ This app can be used for personal purposes. In order to find out information abo
     #4.$ cd You_Anonymous-
     
     #5.$ python You_anonymous(Termux).py
+# 🐧Install for LINUX
+
+    #1.$ bash Install.sh
+    
+    #2.$ python You anon
 
 # 📃License
 This license means that you have the full right to use the product from above ,you have the full right to distribute it but specify the author, you have the full right to change it but specify changes in full condition but you can not change the license. the author of this creation is not under any circumstances responsible in any way, the fact that you have installed and use this creation for selfish purposes, you do it only at your own responsibility.
